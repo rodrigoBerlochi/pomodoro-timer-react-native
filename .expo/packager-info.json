@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://h3-6my.anonymous.pomodoro-react-native.exp.direct",
+  "packagerNgrokUrl": "https://packager.h3-6my.anonymous.pomodoro-react-native.exp.direct",
+  "ngrokPid": 8298,
+  "devToolsPort": 19002,
+  "packagerPort": 19001,
+  "packagerPid": 8193
+}
